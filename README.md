@@ -1,2 +1,3 @@
 # ResumeWebsite
-Files for Resume Website
+Files for sample Custom Domain Resume Website to be used in AWS CD/CD Pipeline utilizating CodePipeline, S3, Cloudfront, Route 53 and Certificate Manager.
+I am still currently working on the project.
